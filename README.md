@@ -5,7 +5,7 @@
 - TYPE localhost:{PORT}/ at the browser tab
 - RUN YOUR APP
 
-# PRIVILEGES GIVE
+# PRIVILEGES GIVEN
 - USERS can view posts by every other user
 - USERS can make a post
 - USERS can only edit their own post
